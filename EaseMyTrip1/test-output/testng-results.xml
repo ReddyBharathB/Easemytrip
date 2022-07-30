@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="22398" started-at="2022-07-30T06:41:08Z" finished-at="2022-07-30T06:41:31Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="22398" started-at="2022-07-30T06:41:08Z" finished-at="2022-07-30T06:41:31Z">
+      <class name="Automation.FlightAutomation">
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:Automation.FlightAutomation@4501b7af]" name="beforeTest" is-config="true" duration-ms="6540" started-at="2022-07-30T06:41:08Z" finished-at="2022-07-30T06:41:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="OneWay()[pri:0, instance:Automation.FlightAutomation@4501b7af]" name="OneWay" duration-ms="15827" started-at="2022-07-30T06:41:15Z" finished-at="2022-07-30T06:41:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OneWay -->
+      </class> <!-- Automation.FlightAutomation -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
